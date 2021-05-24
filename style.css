@@ -188,6 +188,11 @@ header{
     color: white;
     transition: 0.5s;
 }
+.btn:hover{
+    color: white;
+    background-color: var(--hov);
+}
+
 
 /* -----------section-hero---------------- */
 
