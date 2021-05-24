@@ -11,4 +11,4 @@ Here are some topics which is handled in this web template.
 * Toggle.
 
 It is only the front-end of a Home page. No button will give any response.  
-[click](https://rohit-singh19.github.io/Website-template/) here for preview.
+[Click](https://rohit-singh19.github.io/Website-template/) here for preview.
